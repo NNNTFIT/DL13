@@ -213,8 +213,10 @@
     }
     .slide5-img{
         order: -1;
-        max-width: 767px;
+        max-width: 600px;
         height: 215.2958984375px;
+        background-size: contain;
+        background-position: center;
     }
     .slide6{
         background: url(assets/slide6-background-mobile.svg) no-repeat;
