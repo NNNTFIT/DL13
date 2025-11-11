@@ -404,7 +404,7 @@ body{
 .slide5-img{
     width: 100%;
     max-width: 707.4881591796875px;
-    height: 351.77667236328125px;
+    min-height: 351.77667236328125px;
     background: url(assets/slide5-img.svg) no-repeat;
     background-size: cover;
 }
