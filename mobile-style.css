@@ -81,13 +81,10 @@
         font-size: 14.58px;
     }
     .hrst-logo{
-        width: 100%;
-        max-width: 319.8668212890625px;
         display: inline-block;
-        margin: 0 auto 30px auto;
+        margin: 0 15px 30px 15px;
         display: flex;
         justify-content: space-between;
-        justify-self: center;
     }
     .body{
         padding-top: 40px;
