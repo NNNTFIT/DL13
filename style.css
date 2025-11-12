@@ -44,10 +44,9 @@ body{
     display: none;
 }
 .head{
-    margin-top: 30px;
-    width: 100%;
-    max-width: 1500px;
-    padding: 0 168px;
+    margin: 30px auto 0 auto;
+    width: 95%;
+    max-width: 1164px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -511,7 +510,7 @@ body{
 }
 .slide6-avt-3{
     position: absolute;
-    left: 348px;
+    left: 350px;
     top: 251px;
     z-index: 0;
 }

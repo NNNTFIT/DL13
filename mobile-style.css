@@ -27,7 +27,8 @@
         object-fit: cover;
     }
     .head{
-        margin-top: 22px;
+        width: 100%;
+        margin: 22px 0 0 0;
         padding: 0 32px;
         justify-content: space-between;
         gap: 0;
@@ -82,9 +83,11 @@
     }
     .hrst-logo{
         display: inline-block;
-        margin: 0 15px 30px 15px;
+        margin: 0 auto 30px auto;
         display: flex;
         justify-content: space-between;
+        width: 100%;
+        max-width: 319.8668212890625px;
     }
     .body{
         padding-top: 40px;
@@ -219,8 +222,11 @@
     .slide5-img{
         order: -1;
         max-width: 100%;
-        background-size: contain;
+        height: auto;
+        background-size: cover;
         background-position: center;
+        background: url(assets/slide5-img-mobile.svg) no-repeat;
+        background-size: cover;
     }
     .slide6{
         background: url(assets/slide6-background-mobile.svg) no-repeat;
