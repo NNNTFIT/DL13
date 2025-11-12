@@ -419,9 +419,10 @@ body{
 }
 .slide6-box{
     margin-top: 358px;
+    margin-left: 154px;
     padding: 49px 0 0 46px;
     width: 100%;
-    max-width: 484px;
+    max-width: 404px;
     min-height: 183px;
     position: relative;
 }
@@ -433,7 +434,6 @@ body{
     left: 0;
 }
 .slide6-box-tittle{
-    padding-right: 80px;
     font-weight: 800;
     font-size: 40px;
     line-height: 129%;
@@ -444,7 +444,6 @@ body{
     color: rgba(92, 14, 98, 1);
 }
 .slide6-box-text{
-    padding-right: 80px;
     margin-top: 39px;
     font-weight: 700;
     font-size: 16px;
@@ -458,7 +457,6 @@ body{
     position: relative;
     top: 167.36px;
     justify-content: center;
-    gap: 130px;
 }
 .slide6-box-right{
     width: 100%;
@@ -514,7 +512,7 @@ body{
 }
 .slide6-avt-3{
     position: absolute;
-    right: 70px;
+    left: 348px;
     top: 251px;
     z-index: 0;
 }
