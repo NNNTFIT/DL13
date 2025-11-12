@@ -118,6 +118,7 @@
         min-height: 0;
         max-width: fit-content;
         padding: 33px 0 0 27px;
+        margin: 0 8px;
     }
     .slide1-container-right-img-mobile{
         display: inline-block;
@@ -178,6 +179,7 @@
         max-width: fit-content;
         min-height: auto;
         padding: 22.35px 0 0 36px;
+        margin: 0 8px;
     }
     .slide-box-icon{
         max-width: 50px;
@@ -377,6 +379,6 @@
     line-height: 129%;
     letter-spacing: 4%;
     color: rgba(133, 120, 133, 1);
-    
+
     }
 }
